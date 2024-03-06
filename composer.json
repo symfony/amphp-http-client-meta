@@ -1,0 +1,10 @@
+{
+    "name": "symfony/amphp-http-client-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "Helps selecting a version of amphp/http-client that symfony/http-client supports",
+    "require": {
+        "amphp/amp": "^2.5",
+        "amphp/http-client": "^4.2.1"
+    }
+}
