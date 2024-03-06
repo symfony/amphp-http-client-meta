@@ -4,7 +4,7 @@
     "license": "MIT",
     "description": "Helps selecting a version of amphp/http-client that symfony/http-client supports",
     "require": {
-        "amphp/amp": "^2.5",
-        "amphp/http-client": "^4.2.1"
+        "php": ">=8.4",
+        "amphp/http-client": "^5"
     }
 }
